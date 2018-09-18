@@ -1,0 +1,37 @@
+body {
+    background-color: #d9fcfb;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+    border: 3px solid #51461a;
+    border-radius: 2px;
+    background-color: #fff7d6;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 32px;
+}
+
+p {
+    text-align: center;
+    font-family: "georgia";
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #51461a;
+}
+
+a:active {
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
