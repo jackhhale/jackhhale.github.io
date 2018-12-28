@@ -1,12 +1,14 @@
 h1 {
     font-size: 65px;
-    text-decoration: underline overline;
     font-family: "Helvetica";
+    text-align: center;
+    line-height: 10px;
 }
 
 h2 {
-    text-align: left;
-    font-size: 32px;
+    text-align: center;
+    font-size: 24px;
+    line-height: 5px;
 }
 
 h3 {
@@ -21,4 +23,13 @@ p {
 
 ul {
     list-style-type: circle;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+#center {
+    line-height: 5px;
+    text-align: center;
 }
